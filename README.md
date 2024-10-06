@@ -6,7 +6,11 @@ This is a tutorial for the South Bend Community Math Project that is meant to he
 
 ## Task
 
-Your job is to clone this Github repository and create a button that changes a color bar with each click. Using the provided code in the tutorial, you can use that code as a template for the color bar. Make sure to put your code in a `folder that is the name of your ND_ID`. As a reminder for Github source control, you can do the things below:
+Your job is to clone this Github repository and create a button that changes a color bar with each click. Using the provided code in the tutorial, you can use that code as a template for the color bar. Make sure to put your code in a `folder that is the name of your ND_ID`. 
+
+https://github.com/user-attachments/assets/20efea7c-7de1-4ec9-a3de-b2b679bda5fb
+
+As a reminder for Github source control, you can do the things below:
 
 1. Clone the Github repository and update your repo from `main`
 
