@@ -3,3 +3,22 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+
+.container {
+  text-align: center;
+}
+
+#colorBar {
+  margin: 20px auto;
+  height: 50px;
+  width: 40%;
+  justify-content: center;
+  text-align: center;
+  outline: 2px solid black;
+  background: gray;
+}
+
+.button_container {
+  position: relative;
+  text-align: center;
+}
